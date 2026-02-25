@@ -1,5 +1,5 @@
 [# 💫 About Me:
-🔭 I’m currently working on GFT<br>👯 I’m looking to collaborate on others development<br>🌱 I’m currently learning automated tests using Playwright<br>💬 I'm backend developer using Java 8 and Spring with Maven<br>⚡ I'm backend developer using Angular 14<br>🤝 I'm using Agile methodology
+🔭 I’m currently working as backend and frontend development<br>👯 I’m looking to collaborate on others development<br>🌱 I’m currently learning automated tests using Playwright<br>💬 I'm backend developer using Java 8 and Spring with Maven<br>⚡ I'm backend developer using Angular 14<br>🤝 I'm using Agile methodology
 
 
 ## 🌐 Socials:
